@@ -1,4 +1,4 @@
 node{
 stage 'Run Jmeter Test'
-E:\Jmeter\apache-jmeter-3.2\bin\jmeter -n -t E:\Performance\Practice\SpringMVC\EPMS_Performance_Test.jmx -l E:\Performance\Practice\SpringMVC\result.jtl
+E:\Jmeter\apache-jmeter-3.2\bin\jmeter -n -t E:\Performance\Practice\SpringMVC\EPMS_Performance_Test.jmx -l E:\Performance\Practice\SpringMVC\results.jtl
 }
